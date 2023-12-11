@@ -59,15 +59,12 @@ As a leading Artificial Intelligence solutions provider, we focus on hardware, s
 Join us in our journey to make a lasting impact, driving positive change through innovation. Explore our repositories, contribute to our projects, and be part of the Tev5 community as we shape the future of technology.
 
 Connect with us:
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/tev5x" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=388D5C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/company/tev5/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=388D5C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=388D5C" alt="Instagram"/>
   </a>
   <a href="https://tev5.com/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
@@ -75,6 +72,10 @@ Connect with us:
     <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=388D5C" alt="Instagram"/>
   </a>
+  </a>
+    <a href="mailto:hello@tev5.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=e&logoColor=white&color=388D5C" alt="email"/>
+</a>
 </p>
 
 Together, let's build a sustainable and innovative future! 🌍💡
