@@ -69,7 +69,7 @@ Connect with us:
   <a href="https://tev5.com/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=388D5C" alt="website"/>
   </a>
-    <a href="https://youtube.com" target="_blank">
+    <a href="https://www.youtube.com/@tev5x" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=388D5C" alt="Instagram"/>
   </a>
   </a>
