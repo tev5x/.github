@@ -5,7 +5,7 @@
 At Tev5, we thrive on the intersection of imagination, innovation, and technology, leveraging Industry 4.0 concepts to address significant challenges sustainably. Our team is characterized by principled individuals, guided by strong values, and unwavering in our commitment to create and deliver exceptional value for our customers.
 
 
-## About Us 🚀
+## About Us
 
 We are Tev5, a dynamic product and services design and delivery company specializing in the domains of:
 
@@ -16,7 +16,7 @@ We are Tev5, a dynamic product and services design and delivery company speciali
 
 As a leading Artificial Intelligence solutions provider, we focus on hardware, software, and services, harnessing the power of AI and Industry 4.0 technologies to drive innovation across various industries.
 
-## Our Expertise 🌐
+## Our Expertise
 
 ### Industries:
 
@@ -36,7 +36,7 @@ As a leading Artificial Intelligence solutions provider, we focus on hardware, s
 - Embedded & Firmware
 - Electronics Manufacturing
 
-## How We Innovate 🛠️
+## How We Innovate
 
 - **AI Solutions:** Transforming industries through cutting-edge AI solutions.
 - **Data Engineering:** Crafting robust data architectures for informed decision-making.
@@ -54,7 +54,7 @@ As a leading Artificial Intelligence solutions provider, we focus on hardware, s
 - **Embedded & Firmware:** Developing firmware for seamless integration.
 - **Electronics Manufacturing:** Bringing concepts to life through precision manufacturing.
 
-## Let's Innovate Together! 🌟
+## Let's Innovate Together!
 
 Join us in our journey to make a lasting impact, driving positive change through innovation. Explore our repositories, contribute to our projects, and be part of the Tev5 community as we shape the future of technology.
 
