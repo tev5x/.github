@@ -1,6 +1,6 @@
 <img src='https://firebasestorage.googleapis.com/v0/b/blog-application-16fb6.appspot.com/o/Images%2Fda6dde40-c548-4ee5-a54c-d4dd92c1d252?alt=media&token=3af6b890-df5a-4e49-99fc-893654810782'>
 
-# Welcome to Tev5 - Igniting Innovation for a Sustainable Future! 🔥
+# Welcome to Tev5 - Igniting Innovation!
 
 At Tev5, we thrive on the intersection of imagination, innovation, and technology, leveraging Industry 4.0 concepts to address significant challenges sustainably. Our team is characterized by principled individuals, guided by strong values, and unwavering in our commitment to create and deliver exceptional value for our customers.
 
